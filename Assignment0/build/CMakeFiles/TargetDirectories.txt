@@ -1,0 +1,3 @@
+/Users/lyh/Downloads/大三上/Games101_HW/pa0/build/CMakeFiles/Transformation.dir
+/Users/lyh/Downloads/大三上/Games101_HW/pa0/build/CMakeFiles/edit_cache.dir
+/Users/lyh/Downloads/大三上/Games101_HW/pa0/build/CMakeFiles/rebuild_cache.dir

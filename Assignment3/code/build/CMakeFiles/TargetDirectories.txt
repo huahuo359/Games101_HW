@@ -1,0 +1,3 @@
+/Users/lyh/Downloads/大三上/Games101_HW/Assignment3/code/build/CMakeFiles/Rasterizer.dir
+/Users/lyh/Downloads/大三上/Games101_HW/Assignment3/code/build/CMakeFiles/edit_cache.dir
+/Users/lyh/Downloads/大三上/Games101_HW/Assignment3/code/build/CMakeFiles/rebuild_cache.dir
